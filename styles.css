@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#eg1{
+	padding:40px;
+	background-color: #f5f5f5
+}
+#eg2{
+	padding:0px;
+	border:1px;
+	background-color:white;
+}
+#eg3{
+	padding:0px;
+	border:1px;
+	background-color:white;
+}
+#a1{
+	text-align:right;
+	font-style:italic;
+}
+#a2{
+	text-align:right;
+	font-style:italic;
+}
